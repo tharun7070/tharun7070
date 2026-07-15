@@ -13,7 +13,7 @@
 
 ### 👨💻 About Me
 
-- 🎓 I'm currently studying at **MSRIT (Ramaiah Institute of Technology), Bangalore**
+- 🎓 I'm currently studying **AI/ML at MSRIT (Ramaiah Institute of Technology), Bangalore**
 - 🧠 My primary focus right now is **Machine Learning, Artificial Intelligence, and DSA**
 - 🔭 I’m actively looking for **internships/roles** where I can apply my skills and grow!
 - 🤝 I’m open to collaborating on **interesting open-source projects or hackathons**
