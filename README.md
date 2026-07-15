@@ -17,7 +17,7 @@
 - 🧠 My primary focus right now is **Machine Learning, Artificial Intelligence, and DSA**
 - 🔭 I’m actively looking for **internships/roles** where I can apply my skills and grow!
 - 🤝 I’m open to collaborating on **interesting open-source projects or hackathons**
-- ⚡ Fun fact: When I'm not coding, I'm probably brainstorming my next big project.
+- ⚡ Fun fact: When I'm not coding, I'm probably editing some video.
 
 ---
 
