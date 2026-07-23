@@ -42,14 +42,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharun7070&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Tharun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun7070&theme=radical&hide_border=true&background=0D1117" alt="Tharun's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun0_0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://leetcard.jacoblin.cool/tharun0_0?theme=radical&ext=heatmap" alt="Tharun's LeetCode Stats" />
 </div>
 
 ---
